@@ -1,5 +1,5 @@
 # Projeto-Flex-Blog
-### Projeto curso Flexbox - Origamid
+### Projeto curso CSS Flexbox - Origamid
 ### https://www.origamid.com/
 
 ## <br>
